@@ -1,4 +1,4 @@
-# Home_Weather_Display.py
+# Weather-Station-ChangeColorByTemp.py
 #
 # This is an project for using the Grove RGB LCD Display and the Grove DHT Sensor from the GrovePi starter kit
 #
